@@ -1,4 +1,5 @@
-'use strict';
+// Day 1-1 Problem:
+
 // in repl - https://repl.it/@RSJ/Advent-of-Code-1
 //find the sum of all digits that match the next digit in the list
 // the lists is circular

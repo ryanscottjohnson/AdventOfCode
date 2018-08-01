@@ -1,3 +1,4 @@
+// Day 1-2 Problem: 
 // consider the digit halfway around the circular list. That is, if your list contains 10 items, only include a digit in your sum if the digit 10/2 = 5 steps forward matches it
 function captcha2(string) {
     let array = string.split('');
